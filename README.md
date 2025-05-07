@@ -47,7 +47,7 @@ Le dépôt doit contenir les **secrets GitHub** suivants (dans `Settings > Secre
 
 | Nom du secret           | Description                                  |
 | ----------------------- | -------------------------------------------- |
-| `AWS_S3_BUCKET`         | Nom du bucket S3 de destination              |
+| `AWS_S3_BUCKET`         | Nom du bucket S3 de destination (valeur: `cofomo-ui`)|
 | `AWS_ACCESS_KEY_ID`     | Identifiant d'accès AWS                      |
 | `AWS_SECRET_ACCESS_KEY` | Clé secrète AWS associée à l'identifiant     |
 | `AWS_REGION`            | Région AWS du bucket (ex. `us-east-2`)       |
